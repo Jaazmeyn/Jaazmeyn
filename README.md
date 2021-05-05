@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jaazmeyn
 - 👀 I’m interested in web & app development
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning React and Node.js
 - 💞️ I’m looking to collaborate on MERN Stack Projects
 - 📫 How to reach me jasmin.blanda@gmail.com
 
