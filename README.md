@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jaazmeyn
-- 👀 I’m interested in frontend and fullstack development
+- 👀 I’m interested in web frontend and fullstack development
 - 🌱 I’m currently learning React and Node.js
 - 💞️ I’m looking to collaborate on nice Projects
 - 📫 How to reach me jasmin.blanda@gmail.com
