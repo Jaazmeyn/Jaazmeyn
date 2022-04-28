@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jaazmeyn
-- 👀 I’m interested in web frontend and fullstack development
-- 🌱 I’m currently learning React and Node.js
-- 💞️ I’m looking to collaborate on nice Projects
+- 👀 I’m interested in web3 frontend & appdevelopment
+- 🌱 I’m currently learning to interact with web3 smartcontracts.
+- 💞️ I’m looking to collaborate on nice Projects or a Job in this field.
 - 📫 How to reach me jasmin.blanda@gmail.com
 
 <!---
