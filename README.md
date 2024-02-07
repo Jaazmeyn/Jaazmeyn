@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jaazmeyn
+- 👋 Hi, I’m Jasmin :)
 - 👀 I’m interested in frontend desktop & app development.
 - 🌱 I’m currently building a cross-platform App with TS, React and Node.js.
 - 💞️ I’m looking to collaborate on nice Projects or a Job in this field.
