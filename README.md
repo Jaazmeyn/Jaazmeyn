@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jaazmeyn
-- 👀 I’m interested in web3 frontend & appdevelopment
-- 🌱 I’m currently learning to interact with web3 smartcontracts.
+- 👀 I’m interested in frontend desktop & app development.
+- 🌱 I’m currently building a cross-platform App with TS, React and Node.js.
 - 💞️ I’m looking to collaborate on nice Projects or a Job in this field.
 - 📫 How to reach me jasmin.blanda@gmail.com
 
